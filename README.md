@@ -11,5 +11,6 @@ En este curso veremos de todo
 - el flujo de trabajo en github
 - las buenas practicas
 -las personalidades multiples de freddy
+-creado por el increible platzi team
 
 y como un amable recordatorio "este readme.md es un chiste" Diseñado para el ejemplo. si llagas aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso 

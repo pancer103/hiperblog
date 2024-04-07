@@ -14,5 +14,6 @@ En este curso veremos de todo
 -creado por el increible platzi team
 -rrrrrrrrrrrrrrrrrrrr
 -zzzzzzzzzzzzzz
+-xxxxxxxxxxxxxxxxx  xxx
 
 y como un amable recordatorio "este readme.md es un chiste" Diseñado para el ejemplo. si llagas aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso 
